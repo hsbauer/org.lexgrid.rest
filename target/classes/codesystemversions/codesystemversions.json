@@ -1,0 +1,591 @@
+{
+
+    "CodeSystemVersionCatalogEntryDirectory": {
+        "entry": [
+            {
+                "codeSystemVersionName": "MedDRA-13.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:13.0",
+                "officialResourceVersionId": "13.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:13.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/13.0"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-13.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:13.1",
+                "officialResourceVersionId": "13.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:13.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/13.1"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-15.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:15.0",
+                "officialResourceVersionId": "15.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:15.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/15.0"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-14.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:14.1",
+                "officialResourceVersionId": "14.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:14.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/14.1"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-15.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:15.1",
+                "officialResourceVersionId": "15.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:15.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/15.1"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-16.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:16.0",
+                "officialResourceVersionId": "16.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:16.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/16.0"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-16.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:16.1",
+                "officialResourceVersionId": "16.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:16.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/16.1"
+            },
+            {
+                "codeSystemVersionName": "ICD-10-2010",
+                "versionOf": {
+                    "content": "ICD-10",
+                    "uri": "urn:oid:2.16.840.1.113883.6.3"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.3:2010",
+                "officialResourceVersionId": "2010",
+                "about": "urn:oid:2.16.840.1.113883.6.3:2010",
+                "formalName": "ICD-10",
+                "resourceSynopsis": {
+                    "value": "ICD-10"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/ICD-10/version/2010"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-17.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:17.0",
+                "officialResourceVersionId": "17.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:17.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/17.0"
+            },
+            {
+                "codeSystemVersionName": "UMLS_SemNet-3.2",
+                "versionOf": {
+                    "content": "UMLS_SemNet",
+                    "uri": "urn:lsid:nlm.nih.gov:semnet"
+                },
+                "documentURI": "urn:lsid:nlm.nih.gov:semnet:3.2",
+                "officialResourceVersionId": "3.2",
+                "about": "urn:lsid:nlm.nih.gov:semnet:3.2",
+                "formalName": "UMLS Semantic Network",
+                "resourceSynopsis": {
+                    "value": "The UMLS Semantic Network is one of three UMLS Knowledge Sources developed as part of the Unified Medical Language System project. The network provides a consistent categorization of all concepts represented in the UMLS Metathesaurus."
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/UMLS_SemNet/version/3.2"
+            },
+            {
+                "codeSystemVersionName": "CTCAE-4.03",
+                "versionOf": {
+                    "content": "CTCAE",
+                    "uri": "http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#4.03",
+                "officialResourceVersionId": "4.03",
+                "about": "http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#4.03",
+                "formalName": "Common Terminology Criteria for Adverse Events",
+                "resourceSynopsis": {
+                    "value": "Common Terminology Criteria for Adverse Events (CTCAE)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/CTCAE/version/4.03"
+            },
+            {
+                "codeSystemVersionName": "MGEDOntology.owl-1.3.1",
+                "versionOf": {
+                    "content": "MGEDOntology.owl",
+                    "uri": "http://mged.sourceforge.net/ontologies/MGEDOntology.owl#"
+                },
+                "documentURI": "http://mged.sourceforge.net/ontologies/MGEDOntology.owl#1.3.1",
+                "officialResourceVersionId": "1.3.1",
+                "about": "http://mged.sourceforge.net/ontologies/MGEDOntology.owl#1.3.1",
+                "formalName": "The MGED Ontology",
+                "resourceSynopsis": {
+                    "value": "The MGED Ontology, produced by the MGED Society. Concepts, definitions, terms, and resources for standardized description of a microarray experiment in support of MAGE v.1. The MGED ontology is divided into the MGED Core ontology which is intended to be stable and in synch with MAGE v.1; and the MGED Extended ontology which adds further associations and classes not found in MAGE v.1"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MGEDOntology.owl/version/1.3.1"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-12.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:12.0",
+                "officialResourceVersionId": "12.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:12.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/12.0"
+            },
+            {
+                "codeSystemVersionName": "HL7-V3 R2.36",
+                "versionOf": {
+                    "content": "HL7",
+                    "uri": "http://www.hl7.org/Library/data-model/RIM"
+                },
+                "documentURI": "http://www.hl7.org/Library/data-model/RIM/V3 R2.36",
+                "officialResourceVersionId": "V3 R2.36",
+                "about": "http://www.hl7.org/Library/data-model/RIM/V3 R2.36",
+                "formalName": "HL7 Vocabulary",
+                "resourceSynopsis": {
+                    "value": "Published by Health Level Seven, Inc. (HL7) to support message standards for the exchange and interoperability of electronic health records."
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/HL7/version/V3 R2.36"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-17.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:17.1",
+                "officialResourceVersionId": "17.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:17.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/17.1"
+            },
+            {
+                "codeSystemVersionName": "NPO-2011[:]12[:]08",
+                "versionOf": {
+                    "content": "NPO",
+                    "uri": "http://purl.bioontology.org/ontology/npo#"
+                },
+                "documentURI": "http://purl.bioontology.org/ontology/npo#2011-12-08",
+                "officialResourceVersionId": "2011-12-08",
+                "about": "http://purl.bioontology.org/ontology/npo#2011-12-08",
+                "formalName": "Nanoparticle Ontology",
+                "resourceSynopsis": {
+                    "value": "An ontology to represent knowledge underlying the preparation, chemical composition, physicochemical and functional/biological characterization of nanomaterials."
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NPO/version/2011-12-08"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-18.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:18.0",
+                "officialResourceVersionId": "18.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:18.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/18.0"
+            },
+            {
+                "codeSystemVersionName": "PDQ-2014_08_29",
+                "versionOf": {
+                    "content": "PDQ",
+                    "uri": "urn:oid:2.16.840.1.113883.6.213"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.213:2014_08_29",
+                "officialResourceVersionId": "2014_08_29",
+                "about": "urn:oid:2.16.840.1.113883.6.213:2014_08_29",
+                "formalName": "Physician Data Query",
+                "resourceSynopsis": {
+                    "value": "Physician Data Query"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/PDQ/version/2014_08_29"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-18.1",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:18.1",
+                "officialResourceVersionId": "18.1",
+                "about": "urn:oid:2.16.840.1.113883.6.163:18.1",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/18.1"
+            },
+            {
+                "codeSystemVersionName": "NCI Metathesaurus-201604",
+                "versionOf": {
+                    "content": "NCI Metathesaurus",
+                    "uri": "urn:oid:2.16.840.1.113883.3.26.1.2"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.3.26.1.2:201604",
+                "officialResourceVersionId": "201604",
+                "about": "urn:oid:2.16.840.1.113883.3.26.1.2:201604",
+                "formalName": "NCI Metathesaurus",
+                "resourceSynopsis": {
+                    "value": "NCI Metathesaurus"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NCI Metathesaurus/version/201604"
+            },
+            {
+                "codeSystemVersionName": "ICD-10-CM-2015",
+                "versionOf": {
+                    "content": "ICD-10-CM",
+                    "uri": "urn:oid:2.16.840.1.113883.6.90"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.90:2015",
+                "officialResourceVersionId": "2015",
+                "about": "urn:oid:2.16.840.1.113883.6.90:2015",
+                "formalName": "International Classification of Disease, Tenth Revision, Clinical Modification",
+                "resourceSynopsis": {
+                    "value": "ICD10CM"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/ICD-10-CM/version/2015"
+            },
+            {
+                "codeSystemVersionName": "LOINC-252",
+                "versionOf": {
+                    "content": "LOINC",
+                    "uri": "urn:oid:2.16.840.1.113883.6.1"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.1:252",
+                "officialResourceVersionId": "252",
+                "about": "urn:oid:2.16.840.1.113883.6.1:252",
+                "formalName": "Logical Observation Identifier Names and Codes",
+                "resourceSynopsis": {
+                    "value": "Logical Observation Identifier Names and Codes"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/LOINC/version/252"
+            },
+            {
+                "codeSystemVersionName": "MedDRA-19.0",
+                "versionOf": {
+                    "content": "MedDRA",
+                    "uri": "urn:oid:2.16.840.1.113883.6.163"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.163:19.0",
+                "officialResourceVersionId": "19.0",
+                "about": "urn:oid:2.16.840.1.113883.6.163:19.0",
+                "formalName": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)",
+                "resourceSynopsis": {
+                    "value": "MedDRA (Medical Dictionary for Regulatory Activities Terminology)"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MedDRA/version/19.0"
+            },
+            {
+                "codeSystemVersionName": "SNOMED Clinical Terms US Edition-2015_09_01",
+                "versionOf": {
+                    "content": "SNOMED Clinical Terms US Edition",
+                    "uri": "urn:oid:2.16.840.1.113883.6.96"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.96:2015_09_01",
+                "officialResourceVersionId": "2015_09_01",
+                "about": "urn:oid:2.16.840.1.113883.6.96:2015_09_01",
+                "formalName": "SNOMED Clinical Terms",
+                "resourceSynopsis": {
+                    "value": "SNOMED Clinical Terms"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/SNOMED Clinical Terms US Edition/version/2015_09_01"
+            },
+            {
+                "codeSystemVersionName": "RadLex-3_13_1",
+                "versionOf": {
+                    "content": "RadLex",
+                    "uri": "urn:oid:2.16.840.1.113883.6.256"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.256:3_13_1",
+                "officialResourceVersionId": "3_13_1",
+                "about": "urn:oid:2.16.840.1.113883.6.256:3_13_1",
+                "formalName": "Radiology Lexicon",
+                "resourceSynopsis": {
+                    "value": "RadLex"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/RadLex/version/3_13_1"
+            },
+            {
+                "codeSystemVersionName": "ICD-9-CM-2014",
+                "versionOf": {
+                    "content": "ICD-9-CM",
+                    "uri": "urn:oid:2.16.840.1.113883.6.2"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.2:2014",
+                "officialResourceVersionId": "2014",
+                "about": "urn:oid:2.16.840.1.113883.6.2:2014",
+                "formalName": "International Classification of Diseases, Ninth Revision, Clinical Modification",
+                "resourceSynopsis": {
+                    "value": "ICD-9-CM: The International Classification of Diseases, 9th Revision, Clinical Modification"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/ICD-9-CM/version/2014"
+            },
+            {
+                "codeSystemVersionName": "obi-2016[:]06[:]30",
+                "versionOf": {
+                    "content": "obi",
+                    "uri": "http://purl.obolibrary.org/obo/obi.owl"
+                },
+                "documentURI": "http://purl.obolibrary.org/obo/obi.owl/2016-06-30",
+                "officialResourceVersionId": "2016-06-30",
+                "about": "http://purl.obolibrary.org/obo/obi.owl/2016-06-30",
+                "formalName": "Ontology for Biomedical Investigations",
+                "resourceSynopsis": {
+                    "value": "OBI"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/obi/version/2016-06-30"
+            },
+            {
+                "codeSystemVersionName": "MA-July2016",
+                "versionOf": {
+                    "content": "MA",
+                    "uri": "urn:lsid:bioontology.org:MA"
+                },
+                "documentURI": "urn:lsid:bioontology.org:MA:July2016",
+                "officialResourceVersionId": "July2016",
+                "about": "urn:lsid:bioontology.org:MA:July2016",
+                "formalName": "Anatomical Dictionary for the Adult Mouse",
+                "resourceSynopsis": {
+                    "value": "Anatomical Dictionary for the Adult Mouse"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/MA/version/July2016"
+            },
+            {
+                "codeSystemVersionName": "Zebrafish-July_26_2016",
+                "versionOf": {
+                    "content": "Zebrafish",
+                    "uri": "http://ncicb.nci.nih.gov/xmlns/zebrafish_anatomical_ontology#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/xmlns/zebrafish_anatomical_ontology#July_26_2016",
+                "officialResourceVersionId": "July_26_2016",
+                "about": "http://ncicb.nci.nih.gov/xmlns/zebrafish_anatomical_ontology#July_26_2016",
+                "formalName": "Zebrafish",
+                "resourceSynopsis": {
+                    "value": "A structured controlled vocabulary of the anatomy and development of the Zebrafish."
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/Zebrafish/version/July_26_2016"
+            },
+            {
+                "codeSystemVersionName": "NCI_Thesaurus-16.08e",
+                "versionOf": {
+                    "content": "NCI_Thesaurus",
+                    "uri": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.08e",
+                "officialResourceVersionId": "16.08e",
+                "about": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.08e",
+                "formalName": "NCI Thesaurus",
+                "resourceSynopsis": {
+                    "value": "NCI Thesaurus"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NCI_Thesaurus/version/16.08e"
+            },
+            {
+                "codeSystemVersionName": "NCI_Thesaurus-16.09d",
+                "versionOf": {
+                    "content": "NCI_Thesaurus",
+                    "uri": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.09d",
+                "officialResourceVersionId": "16.09d",
+                "about": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.09d",
+                "formalName": "NCI Thesaurus",
+                "resourceSynopsis": {
+                    "value": "NCI Thesaurus"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NCI_Thesaurus/version/16.09d"
+            },
+            {
+                "codeSystemVersionName": "Terminology_Value_Set-09.29.2016",
+                "versionOf": {
+                    "content": "Terminology_Value_Set",
+                    "uri": "http://ncicb.nci.nih.gov/Terminology_Value_Set.owl#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/Terminology_Value_Set.owl#09.29.2016",
+                "officialResourceVersionId": "09.29.2016",
+                "about": "http://ncicb.nci.nih.gov/Terminology_Value_Set.owl#09.29.2016",
+                "formalName": "Terminology Value Set",
+                "resourceSynopsis": {
+                    "value": "Terminology Value Set"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/Terminology_Value_Set/version/09.29.2016"
+            },
+            {
+                "codeSystemVersionName": "ChEBI-v144",
+                "versionOf": {
+                    "content": "ChEBI",
+                    "uri": "urn:lsid:bioontology.org:ChEBI"
+                },
+                "documentURI": "urn:lsid:bioontology.org:ChEBI:v144",
+                "officialResourceVersionId": "v144",
+                "about": "urn:lsid:bioontology.org:ChEBI:v144",
+                "formalName": "ChEBI",
+                "resourceSynopsis": {
+                    "value": "Chemical Entities of Biological Interest"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/ChEBI/version/v144"
+            },
+            {
+                "codeSystemVersionName": "GO-October2016",
+                "versionOf": {
+                    "content": "GO",
+                    "uri": "http://purl.obolibrary.org/obo/go.owl"
+                },
+                "documentURI": "http://purl.obolibrary.org/obo/go.owl/October2016",
+                "officialResourceVersionId": "October2016",
+                "about": "http://purl.obolibrary.org/obo/go.owl/October2016",
+                "formalName": "Gene Ontology",
+                "resourceSynopsis": {
+                    "value": "Gene Ontology"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/GO/version/October2016"
+            },
+            {
+                "codeSystemVersionName": "HGNC-October2016",
+                "versionOf": {
+                    "content": "HGNC",
+                    "uri": "urn:oid:2.16.840.1.113883.6.281"
+                },
+                "documentURI": "urn:oid:2.16.840.1.113883.6.281:October2016",
+                "officialResourceVersionId": "October2016",
+                "about": "urn:oid:2.16.840.1.113883.6.281:October2016",
+                "formalName": "HUGO Gene Nomenclature Committee Ontology",
+                "resourceSynopsis": {
+                    "value": "HGNC"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/HGNC/version/October2016"
+            },
+            {
+                "codeSystemVersionName": "NDFRT-October2016",
+                "versionOf": {
+                    "content": "NDFRT",
+                    "uri": "http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#"
+                },
+                "documentURI": "http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#October2016",
+                "officialResourceVersionId": "October2016",
+                "about": "http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#October2016",
+                "formalName": "National Drug File - Reference Terminology",
+                "resourceSynopsis": {
+                    "value": "National Drug File - Reference Terminology. Washington, DC: U.S. Department of Veterans Affairs, Veterans Health Administration"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NDFRT/version/October2016"
+            },
+            {
+                "codeSystemVersionName": "obi-2016[:]10[:]11",
+                "versionOf": {
+                    "content": "obi",
+                    "uri": "http://purl.obolibrary.org/obo/obi.owl"
+                },
+                "documentURI": "http://purl.obolibrary.org/obo/obi.owl/2016-10-11",
+                "officialResourceVersionId": "2016-10-11",
+                "about": "http://purl.obolibrary.org/obo/obi.owl/2016-10-11",
+                "formalName": "Ontology for Biomedical Investigations",
+                "resourceSynopsis": {
+                    "value": "OBI"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/obi/version/2016-10-11"
+            },
+            {
+                "codeSystemVersionName": "NCI_Thesaurus-16.10e",
+                "versionOf": {
+                    "content": "NCI_Thesaurus",
+                    "uri": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#"
+                },
+                "documentURI": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.10e",
+                "officialResourceVersionId": "16.10e",
+                "about": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#16.10e",
+                "formalName": "NCI Thesaurus",
+                "resourceSynopsis": {
+                    "value": "NCI Thesaurus"
+                },
+                "href": "http://lexevs63cts2.nci.nih.gov/lexevscts2/codesystem/NCI_Thesaurus/version/16.10e"
+            }
+        ],
+        "complete": "COMPLETE",
+        "numEntries": 38,
+        "heading": {
+            "resourceRoot": "http://lexevs63cts2.nci.nih.gov/lexevscts2/",
+            "resourceURI": "codesystemversions",
+            "parameter": [
+                {
+                    "arg": "format",
+                    "val": "json"
+                }
+            ],
+            "accessDate": "2016-11-22T16:19:49.095-05:00"
+        }
+    }
+
+}
